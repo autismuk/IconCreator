@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="400"
+   id="svg4533"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="santaclaus.svg">
+  <defs
+     id="defs4535">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4422"
+       x="-0.12026205"
+       width="1.2405241"
+       y="-0.11284857"
+       height="1.225697">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4673253"
+         id="feGaussianBlur4424" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4426"
+       x="-0.20720495"
+       width="1.4144099"
+       y="-0.081969611"
+       height="1.1639392">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4673253"
+         id="feGaussianBlur4428" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4413"
+       x="-0.11643753"
+       width="1.2328751"
+       y="-0.10460883"
+       height="1.2092177">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4673253"
+         id="feGaussianBlur4415" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4418">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4673253"
+         id="feGaussianBlur4420" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5065">
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="0"
+         id="stop5067" />
+      <stop
+         style="stop-color:#000080;stop-opacity:0;"
+         offset="1"
+         id="stop5069" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5085">
+      <stop
+         style="stop-color:#000083;stop-opacity:1;"
+         offset="0"
+         id="stop5087" />
+      <stop
+         style="stop-color:#000083;stop-opacity:0;"
+         offset="1"
+         id="stop5089" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5085"
+       id="linearGradient3222"
+       gradientUnits="userSpaceOnUse"
+       x1="-2558.0879"
+       y1="-14.0558"
+       x2="-2603.7356"
+       y2="-120.57475" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5065"
+       id="linearGradient3224"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3384.0098,648.65732)"
+       x1="-2659.7314"
+       y1="162.4178"
+       x2="-2627.9119"
+       y2="74.029465" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4383">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.5282021"
+         id="feGaussianBlur4385" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4398">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95173597"
+         id="feGaussianBlur4400" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4402">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95173597"
+         id="feGaussianBlur4404" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4406">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95173597"
+         id="feGaussianBlur4408" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4372"
+       x="-0.11605947"
+       width="1.2321188"
+       y="-0.15081498"
+       height="1.30163">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.7181527"
+         id="feGaussianBlur4374" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4432"
+       id="linearGradient4438"
+       x1="-7891.8169"
+       y1="98.273102"
+       x2="-7885.2505"
+       y2="228.58278"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.44385017,0,0,0.44385017,-3411.3246,686.71602)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4432">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4434" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4436" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.44385017,0,0,0.44385017,3709.0231,690.30286)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4432"
+       id="linearGradient4442"
+       gradientUnits="userSpaceOnUse"
+       x1="-7891.8169"
+       y1="98.273102"
+       x2="-7885.2505"
+       y2="228.58278" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4417">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5928784"
+         id="feGaussianBlur4419" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4548">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.6936259"
+         id="feGaussianBlur4550" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4515">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.9077412"
+         id="feGaussianBlur4517" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="353.44404"
+     inkscape:cy="201.99373"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1871"
+     inkscape:window-height="1056"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4538">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36218)">
+    <path
+       style="opacity:0.36625516;fill:#0000ff;fill-opacity:1;stroke:#00ffff;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;display:inline;filter:url(#filter4515)"
+       d="m 474.30194,833.59177 c -1.7233,-11.5144 -0.184,-23.0289 11.3447,-34.5433 -8.0861,-15.197 0.951,-27.7404 13.0979,-36.9289 13.7761,-10.4208 32.1653,-16.3219 45.2635,-13.1679 -4.3963,-26.5403 14.8002,-55.3123 35.1121,-65.4753 15.2138,-7.6121 31.0533,-2.903 38.0734,10.7115 17.7521,-3.7877 29.84,-0.4952 42.3817,2.2301 l 47.751,46.7435 c 39.2056,14.9711 32.4074,40.1854 30.3942,53.6355 13.8924,-3.8459 26.7654,-4.1239 33.1356,18.3583 36.757,9.6601 41.7628,27.6758 42.8571,46.7208 l -425.2742,13.132 c 27.6011,-27.8301 58.4011,-40.2236 85.863,-41.4163 z"
+       id="rect4510"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscscccccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="matrix(0.44385017,0,0,0.44385017,-136.76931,647.51696)" />
+    <path
+       sodipodi:nodetypes="ccscscccccccc"
+       inkscape:connector-curvature="0"
+       id="path4513"
+       d="m 73.749694,1017.5069 c -0.764891,-5.1107 -0.08167,-10.2214 5.035347,-15.3322 -3.589017,-6.74514 0.422099,-12.31253 5.813502,-16.39085 6.114527,-4.62527 14.276578,-7.24448 20.090217,-5.84457 -1.9513,-11.77992 6.56907,-24.55037 15.58451,-29.06123 6.75264,-3.37862 13.78301,-1.28849 16.89889,4.75431 7.87926,-1.68117 13.24448,-0.2198 18.81112,0.98983 l 21.19429,20.7471 c 17.40141,6.64494 14.38403,17.8363 13.49046,23.80611 6.16615,-1.70698 11.87984,-1.83037 14.70724,8.1485 16.31461,4.2876 18.53643,12.2838 19.02214,20.737 l -188.758026,5.8286 c 12.250754,-12.3524 25.921344,-17.8533 38.11031,-18.3826 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.19753089;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;display:inline;filter:url(#filter4548)"
+       d="m 800.58104,505.29217 c 8.732,-15.6808 27.3074,-25.4557 49.4381,-33.0973 -29.4636,-29.3014 9.0551,-60.5881 37.3836,-55.0934 -0.199,-17.6159 13.9241,-26.917 30.6195,-39.75596 24.975,-19.20603 57.9669,-24.49434 65.3964,16.82996 43.18966,-27.21571 93.59456,0.5192 69.80306,50.6917 24.4453,-4.0627 54.0321,32.1239 32.7287,57.9517 38.7959,5.7275 75.1313,16.3761 104.5495,40.8591 -133.3989,16.8517 -264.20376,18.139 -394.96966,19.1929 z"
+       id="rect4519"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="matrix(0.44385017,0,0,0.44385017,-136.76931,647.51696)" />
+    <path
+       sodipodi:nodetypes="cccscccccc"
+       inkscape:connector-curvature="0"
+       id="path4522"
+       d="m 218.56873,871.79097 c 3.87569,-6.95993 12.12039,-11.29852 21.94311,-14.69024 -13.07744,-13.00544 4.0191,-26.89204 16.59271,-24.45321 -0.0883,-7.81882 6.18021,-11.94712 13.59047,-17.64569 11.08516,-8.52461 25.72862,-10.87183 29.0262,7.46997 19.16974,-12.07969 41.54196,0.23045 30.9821,22.49952 10.85006,-1.80323 23.98216,14.25821 14.52665,25.72188 18.74814,3.49394 32.97322,10.50584 46.4043,18.13532 -59.20912,7.47962 -117.26688,8.05099 -175.30735,8.51877 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccscccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4271"
+       d="m 236.52974,776.95099 c -7.745,18.70999 -27.13247,27.57373 -38.61828,27.09744 -1.53183,12.5869 -5.99749,24.98486 -16.43258,34.07975 4.36638,16.8849 26.81912,35.43854 46.90044,33.95773 22.63565,-1.66919 52.05164,13.83325 58.92053,22.60258 17.39703,13.3037 34.55821,27.28609 61.5592,12.94178 -3.00889,5.60263 -3.21022,13.00029 -15.83071,14.49344 -0.51414,5.9104 -2.33243,10.52044 -9.93349,8.76085 -3.98969,4.1006 -9.11376,4.11729 -14.58803,2.87326 2.59235,5.90131 5.18474,8.88447 7.7771,12.19603 9.82076,1.87682 19.64148,2.9816 29.46224,6.79997 13.07144,8.09129 17.28375,23.53603 18.14846,32.94815 -5.92949,15.29223 -21.3167,16.78163 -31.1918,12.82651 l -12.43468,-16.9897 -10.10212,2.07997 c 3.96425,6.73392 9.18477,13.46784 7.46197,20.20175 -5.64578,13.3734 -24.82093,13.538 -30.45251,10.9061 -2.9211,-3.1484 -5.10142,-10.7418 -7.46164,-17.25577 -10.53692,4.01067 -18.38082,12.33027 -32.681,10.31977 -11.82195,-1.3983 -15.88429,-11.25075 -19.68973,-17.99904 -46.64745,0.23137 -94.43196,-36.28081 -106.8485,-75.56403 -2.23514,-2.55027 -5.5329,-3.79084 -10.47352,-5.92486 l -4.57516,3.25217 c 6.99494,3.92772 7.7735,8.61744 8.32476,15.45517 -5.0748,12.55888 -16.995734,15.67568 -28.338545,14.50299 -18.891598,-10.46284 -18.327419,-33.95596 -14.578974,-48.22077 17.070565,-22.18182 32.649139,-14.32145 48.516369,-11.63411 1.48242,-10.09525 3.59719,-20.03242 6.76801,-29.70556 C 81.516007,848.439 79.796,806.65348 94.419268,781.32579 c -5.149467,-5.79586 -9.399861,-12.71554 -12.161497,-21.4962 12.234504,-6.3312 23.769999,-4.42989 34.914179,-6.94506 18.31121,-9.74298 36.27526,-10.29669 50.20984,-5.01082 l 15.32881,9.56678 c 21.35213,-5.22822 38.26565,7.34286 53.81914,19.5105 z"
+       style="fill:#8f7814;fill-opacity:1;stroke:#550000;stroke-width:1.77540076;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#deb85c;fill-opacity:1;stroke:#550000;stroke-width:1.77540076;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 126.35961,852.32628 c 8.83884,-0.8889 17.52067,-2.11127 24.69529,-6.53658 -1.41917,8.9343 -3.05657,18.00748 -2.22977,25.5126 -9.46586,11.0112 -8.66378,29.24785 8.1853,59.75749 7.4582,3.02608 25.33023,-2.19617 30.72535,-15.30341 20.47233,-4.44557 45.25528,5.72717 60.84121,27.95545 4.94019,13.5946 10.41161,26.77602 22.82654,34.55693 -45.98491,27.03674 -124.72867,2.33598 -150.90904,-64.35827 -3.38424,-20.97743 -0.0173,-41.44922 5.86512,-61.58421 z"
+       id="rect4311"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#deb85c;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4417)"
+       d="m 556.81724,350.56375 c 17.3697,-3.72442 32.9744,2.42686 53.0249,-17.38221 l 7.3103,-23.60204 c 13.2427,-30.1584 51.0276,-16.54649 61.7526,-7.28614 19.5133,10.62077 34.2401,15.32648 40.0776,34.64999 -0.8777,11.72001 -7.6719,24.97168 -10.2215,34.24082 -14.0733,51.1633 -38.3059,70.896 -71.3199,87.1359 l -48.4746,0.1049 c -30.7144,-1.9863 -51.2387,-14.1629 -67.1879,-30.9145 z"
+       id="rect4410"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccscccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="matrix(0.44385017,0,0,0.44385017,-136.76931,647.51696)" />
+    <path
+       style="fill:#faf8de;fill-opacity:1;stroke:#550000;stroke-width:1.77540076;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 163.33961,755.56182 13.88372,-24.30249 c 3.96051,-4.04495 8.39498,-7.85293 13.20064,-11.47532 -1.82174,-4.40801 -3.02382,-9.74551 -3.65001,-15.94689 -3.2658,-1.32307 -5.73933,-1.58975 -10.64893,-5.10451 -1.58713,-3.21114 -2.9565,-7.29327 -3.94681,-12.89157 1.19852,-1.41503 1.94602,-3.53887 5.13344,-1.82848 l 4.57933,8.21454 c 2.24858,1.5316 4.5227,3.01212 7.35717,3.37198 1.66049,-4.23516 3.0532,-8.5468 2.64877,-13.37192 1.78072,-3.8746 5.47565,-4.4013 7.73329,-3.08429 1.95693,11.13687 -2.51686,15.97732 -1.0861,23.6692 l -3.03594,2.75089 c 0.12006,5.68622 1.4059,8.34135 3.00882,10.17205 8.73696,2.01437 16.53177,1.9809 25.07181,1.43502 3.56486,-2.41084 7.30963,-7.23715 10.27796,-11.01814 0.71594,-7.8649 1.68296,-15.48108 0.0182,-23.94469 0.22686,-4.51789 6.3262,-4.10308 7.96099,-0.89509 0.52143,4.66668 0.72552,10.15214 0.39503,13.96027 l 7.1241,-0.0109 3.5788,-5.9741 c 1.72952,-2.04418 3.20882,-1.33633 4.64286,-0.1303 l 0.40022,5.21728 3.74161,-0.19028 5.71741,-7.04269 c 5.06771,-1.77946 5.29074,2.36234 6.81195,4.9175 l -9.41699,11.31236 -21.35696,-0.17178 c -4.1259,6.81627 -8.20586,13.58666 -12.122,20.19317 3.854,3.63459 8.53706,5.81832 13.58236,7.36814 6.63063,-5.07335 12.99353,-10.3341 15.47382,-18.31267 4.01475,-1.48175 7.01846,0.61607 7.35738,1.06557 l -4.49887,9.26902 c 2.80146,1.64704 5.66984,2.66869 8.77369,3.64076 2.34711,-1.17151 3.99384,-2.51812 5.14617,-3.98834 3.23095,-0.3685 4.71147,2.3263 6.30369,4.82559 -1.97389,3.45817 -4.69389,5.42417 -7.55451,7.10888 -4.58692,0.72182 -8.91459,-0.37139 -13.20676,-1.71306 -4.62576,3.90556 -9.69715,7.68378 -16.39902,10.99617 -8.36613,-3.97377 -16.38961,-8.80432 -24.15823,-14.27185 -8.88411,0.42092 -17.86399,1.03342 -27.37486,2.70789 -3.8864,3.78925 -6.84586,7.73301 -9.47069,11.73253 -2.55871,8.064 -2.62666,13.38814 -3.1805,19.24674 -6.72975,1.23013 -14.81865,-1.69012 -18.81619,-7.50606 z"
+       id="path3257"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.13991771;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 234.52239,680.23301 c -0.36355,0.5069 -0.59703,1.15312 -0.63799,1.96959 0.46577,2.36818 0.7153,4.67567 0.83222,6.93515 0.12916,-2.91627 0.11483,-5.86397 -0.19423,-8.90474 z m -34.55094,1.30382 c -0.57075,5.60319 -2.39413,9.55877 -1.44251,14.84124 0.62924,-4.24313 2.10641,-8.45113 1.44251,-14.84124 z m -26.71423,2.92663 c -0.37071,0.43936 -0.71057,0.93477 -1.08189,1.37316 0.99032,5.5983 2.36594,9.68826 3.95306,12.8994 4.90961,3.51476 7.3866,3.7812 10.65241,5.10427 0.40408,4.0019 1.04633,7.63732 1.94185,10.90207 0.56115,-0.43641 1.13416,-0.87273 1.70601,-1.30381 -1.82173,-4.40802 -3.02172,-9.7356 -3.64786,-15.93699 -3.26581,-1.32307 -5.7428,-1.58952 -10.65241,-5.10428 -1.07402,-2.17297 -2.04659,-4.76322 -2.87117,-7.93382 z m 69.07418,3.24566 c -0.0227,0.4202 -0.0634,0.83256 -0.0971,1.22059 l 0.13873,0 c -0.0112,-0.40504 -0.0249,-0.81024 -0.0417,-1.22059 z m 29.93214,0.38836 -7.4206,8.93249 -21.36029,-0.16644 c -4.12589,6.81627 -8.20656,13.58867 -12.12269,20.19518 0.80736,0.76137 1.66247,1.43899 2.53829,2.08055 3.13531,-5.25453 6.33444,-10.56787 9.5844,-15.93699 l 21.36029,0.16643 9.41793,-11.3043 c -0.73413,-1.23311 -1.17745,-2.83862 -1.99733,-3.96692 z m -73.7485,8.40542 -3.00983,2.71857 c 0.0502,2.3789 0.31122,4.22127 0.7074,5.70071 l 2.33022,-2.10829 c -0.42286,-2.27325 -0.31793,-4.29971 -0.028,-6.31099 z m 66.81335,15.71507 -2.05281,4.23044 c 0.80966,0.47602 1.63012,0.89063 2.45507,1.27607 l 2.03891,-4.21658 c -0.17577,-0.23311 -1.06271,-0.89936 -2.44117,-1.28993 z m -43.15054,10.81885 c -8.8841,0.42091 -17.85529,1.03024 -27.36616,2.7047 -3.8864,3.78927 -6.84861,7.73478 -9.47341,11.73429 -2.5587,8.06401 -2.62248,13.39341 -3.17632,19.252 -5.66588,1.03567 -12.30442,-0.86621 -16.64439,-4.96557 l -2.17766,3.80046 c 3.99754,5.81593 12.09231,8.73398 18.82205,7.50385 0.55384,-5.8586 0.61762,-11.18799 3.17632,-19.252 2.6248,-3.99952 5.58701,-7.93117 9.47341,-11.72041 9.51087,-1.67448 18.48206,-2.29767 27.36616,-2.71859 7.76857,5.46754 15.79591,10.29879 24.16205,14.27255 6.70192,-3.31236 11.76895,-7.07973 16.39475,-10.98528 4.29212,1.34165 8.61763,2.42787 13.20456,1.70604 2.8606,-1.68469 5.58541,-3.64343 7.55929,-7.1016 -0.7304,-1.14647 -1.43936,-2.33145 -2.30247,-3.24565 -1.57948,1.67722 -3.38884,2.90839 -5.25682,4.00852 -4.58693,0.72182 -8.91244,-0.37826 -13.20456,-1.71992 -4.6258,3.90555 -9.69283,7.68679 -16.39475,10.99916 -8.36614,-3.97377 -16.39348,-8.80502 -24.16205,-14.27255 z"
+       id="path3249"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#faf8de;fill-opacity:1;stroke:#550000;stroke-width:1.77540076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 103.85015,740.17484 13.94954,12.68144 c -5.62859,4.25236 -10.19674,8.77255 -14.10808,15.53475 L 102.0332,756.09442 92.026911,748.49325 88.156892,741.6015 58.301269,730.19068 c -2.534519,-5.31007 -4.966465,-9.90176 -7.901201,-18.01333 -6.351586,-1.38059 -12.947023,-4.22399 -19.72106,-8.13947 -3.155512,-2.65983 -6.192691,-6.73957 -8.927379,-14.44906 0.740602,-4.27789 1.811615,-7.70615 5.468894,-4.48407 3.241261,6.20735 6.841956,9.89852 10.500701,13.18374 5.442227,1.95527 9.091961,2.118 12.008409,1.54748 l -0.964929,-12.70723 5.822159,-9.63807 0.255127,-8.79757 c 1.902692,-3.65845 4.109476,-4.88404 6.856063,-1.79134 3.78977,6.6582 4.407784,11.09616 3.99647,14.8136 l -6.590331,10.72889 2.770514,15.33662 c -0.708919,5.00366 0.40066,8.5525 1.777304,11.88765 l 24.887302,5.78979 -3.465096,-30.84035 -1.180901,-10.71223 c -0.01203,-2.2806 -0.820238,-5.35757 4.855987,-1.95007 4.261089,6.49809 4.638452,12.13316 5.205692,17.8104 l 6.564726,-6.38849 -1.735142,-8.30375 c 0.763113,-2.92296 0.581395,-5.46801 3.279962,-9.16516 4.4721,0.39793 5.44511,2.54541 7.60245,4.10072 2.22018,7.81081 1.22648,13.78511 0.59866,19.96849 l -10.99563,13.27621 z"
+       id="path3260"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.13991771;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 65.373884,675.89161 -6.269381,10.20855 0.887699,4.89622 5.700676,-9.27924 c 0.191611,-1.73174 0.152734,-3.62948 -0.318994,-5.82553 z m 18.863637,4.85461 c -0.568532,0.60127 -0.352953,1.98648 -0.346783,3.16242 l 1.179002,10.70789 2.732471,24.32854 0.735104,0.16645 -3.467575,-30.83373 -0.832219,-7.53157 z m 15.201869,1.12349 c -0.222149,1.0705 -0.365735,2.10793 -0.651883,3.20404 l 0.637989,3.03761 1.095784,-1.06803 -1.08189,-5.17362 z m -76.730598,3.89756 c -0.413671,1.02825 -0.706431,2.38062 -0.957073,3.82821 2.734688,7.7095 5.777014,11.77916 8.932485,14.439 6.774078,3.91548 13.358157,6.7613 19.709742,8.14188 2.934738,8.11157 5.371561,12.70748 7.906079,18.01754 l 29.862775,11.40139 3.869839,6.89355 10.000481,7.60095 1.66444,12.30297 c 3.91138,-6.76222 8.47753,-11.28239 14.10612,-15.53476 l -3.70334,-3.35662 c -3.98462,3.45454 -7.38532,7.33582 -10.40278,12.55264 L 102.03312,749.75105 92.032639,742.15011 88.1628,735.25656 58.300025,723.85517 c -2.534518,-5.31006 -4.971341,-9.90597 -7.906079,-18.01755 -6.351585,-1.38058 -12.935664,-4.22639 -19.709742,-8.14188 -2.792175,-2.35359 -5.496111,-5.82023 -7.975412,-11.92847 z m 26.492307,0.6519 -0.430004,0.70739 0.485484,6.43582 c 0.156858,-0.0257 0.318905,-0.0395 0.471589,-0.0693 l -0.527069,-7.07386 z m 61.709021,0.51321 c -0.15375,2.26908 -0.41181,4.47165 -0.63799,6.69935 l -10.99918,13.28777 0.8877,5.25686 10.11148,-12.19201 c 0.42947,-4.22993 1.01207,-8.36288 0.63799,-13.05197 z"
+       id="path3251"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="ssssss"
+       inkscape:connector-curvature="0"
+       id="path4343"
+       d="m 76.743773,801.99682 c 2.478997,-10.35754 13.442489,-16.88865 24.092107,-16.9874 11.42962,-0.10597 24.70185,8.39049 26.47507,19.68221 1.83741,11.70016 -10.09231,25.17064 -20.92433,29.95992 -5.94634,2.62905 -12.36172,2.27206 -17.595512,-1.58523 -8.145934,-6.0035 -14.402804,-21.2282 -12.047335,-31.0695 z"
+       style="fill:#4a1104;fill-opacity:1;stroke:#550000;stroke-width:1.77540076;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 189.20138,803.02432 c 5.1326,1.60831 11.84734,1.5102 16.02872,0.22418"
+       id="path4299"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4440"
+       d="m 194.80579,770.46245 c 11.73867,-0.12879 22.48434,2.22504 31.83333,8.0704 -2.42697,7.81702 -6.76468,13.40479 -12.77814,17.03755 -7.5051,2.8656 -15.67115,4.73973 -25.55636,4.0352 4.83433,-7.4366 8.50684,-17.459 6.50117,-29.14315 z"
+       style="fill:url(#linearGradient4442);fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:url(#linearGradient4438);fill-opacity:1;stroke:none;display:inline"
+       d="m 102.89277,766.87558 c -4.565004,-1.81011 -9.369949,-3.26732 -14.123272,-2.46595 1.530261,6.24777 4.747063,12.05971 7.578475,12.62376 2.38299,-2.79864 6.556737,-3.40556 6.544797,-10.15781 z"
+       id="rect4421"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 193.09572,787.5717 c 3.44072,-4.64752 3.79825,-10.46452 1.10963,-17.43698 11.05426,-0.0603 23.95082,3.41406 31.94137,8.00515 0.087,7.03485 -6.55918,14.53101 -13.23628,18.30883"
+       id="path4301"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 94.101288,781.70653 c 2.999185,-4.7923 6.111332,-9.88817 10.145182,-14.26661"
+       id="path4303"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 89.345747,763.71475 c 6.449183,-0.59133 10.908243,1.54277 14.028813,4.59701"
+       id="path4305"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 126.16271,852.0613 c 19.9252,0.38921 48.07346,-13.9412 47.59384,-46.26005"
+       id="path4307"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 168.20843,805.56348 c 4.05931,1.31978 8.21917,-0.38865 10.00641,-4.31962"
+       id="path4309"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 148.71071,871.74472 c 6.10213,-4.79554 21.94705,-6.32828 29.07857,-3.8231 5.48732,1.92759 9.4921,6.6221 12.1361,13.17565"
+       id="path4332"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 180.09725,896.47352 c 3.02613,6.34848 7.88737,12.1872 7.45035,19.49767"
+       id="path4334"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#550000;fill-opacity:1;stroke:none;display:inline"
+       d="m 142.12397,795.5704 c 0.37301,-9.83605 7.94176,-13.57681 17.93426,-9.63967 l -0.56046,1.23299 c -4.15922,-1.09547 -12.86299,-0.73873 -16.2529,8.51876 z"
+       id="rect4336"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 310.0334,983.6559 c -16.97357,2.46896 -29.61176,-0.51499 -38.78281,-5.26819"
+       id="path4339"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#550000;stroke-width:1.77540076;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 287.09683,894.09573 c 9.77727,11.56256 16.57941,29.80396 21.08292,39.47097"
+       id="path4341"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.42798354;fill:#905648;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4372)"
+       d="m -8171.1238,238.17922 c 25.8866,-17.61786 65.117,-17.9908 88.3884,14.14214 6.9587,19.81878 -2.98,34.43838 -13.1319,48.9924 -3.835,-10.59196 -4.1042,-21.18391 -15.3467,-31.77587 -15.5783,-6.49696 -32.2284,-10.49289 -51.8265,-7.61026 -7.1511,7.09745 -10.5278,15.45307 -9.5985,25.24399 -7.8512,-16.3308 -6.7921,-32.6616 1.5152,-48.9924 z"
+       id="rect4361"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       transform="matrix(0.41632384,0,0,0.41632384,3485.3951,695.77013)"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#f2d07b;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4406)"
+       d="m 937.95284,557.53277 c -0.5235,8.1311 -4.3615,11.6165 -12.5778,8.468 -7.2334,-2.7718 -12.6713,-9.3779 -11.8257,-14.8126 1.2461,-8.0076 5.9527,-9.6668 11.2718,-9.2306 7.5501,0.6191 13.5708,8.7557 13.1317,15.5752 z"
+       id="path4387"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="matrix(0.44385017,0,0,0.44385017,-136.76931,647.51696)" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path4394"
+       d="m 904.35984,564.02347 c 0.4454,13.8534 -6.9797,20.6511 -24.8968,17.2886 -15.7736,-2.9601 -28.4934,-12.8212 -27.7462,-22.1986 1.1009,-13.8167 10.7047,-17.7373 21.9985,-18.2657 16.0315,-0.75 30.2709,11.5567 30.6445,23.1757 z"
+       style="fill:#f2d07b;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4402)"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="matrix(0.44385017,0,0,0.44385017,-136.76931,647.51696)" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path4396"
+       d="m 854.37244,526.43237 c 1.5498,9.2225 -2.8004,14.4387 -15.0841,13.8099 -10.8142,-0.5536 -20.2102,-5.9974 -20.5582,-12.3348 -0.5127,-9.3377 5.5543,-12.8271 13.058,-14.2012 10.6513,-1.9504 21.2843,4.9912 22.5843,12.7261 z"
+       style="fill:#f2d07b;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4398)"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="matrix(0.44385017,0,0,0.44385017,-136.76931,647.51696)" />
+    <path
+       style="opacity:0.27572016;fill:#c6aa2e;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4383)"
+       d="m -7834.879,419.65862 c 83.7927,-0.19229 133.2877,58.21907 170.8516,142.77958 -9.7377,2.25526 -18.4754,1.04549 -27.8197,-2.9883 -21.5782,-40.42474 -59.2268,-58.06657 -104.4398,-79.30516 -47.5738,-22.34756 -92.9606,-40.2887 -111.1918,-79.84607 32.4687,15.86814 46.5825,17.68507 72.5997,19.35995 z"
+       id="rect4376"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscc"
+       transform="matrix(0.43708729,0,0,0.43708729,3656.369,694.72997)"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 78.804214,935.46891 c 13.906895,-0.45467 28.771166,-3.53318 32.813186,-16.32734 l 1.90225,8.24292 c -7.17737,14.3534 -18.533012,13.85532 -27.74064,13.79109 -1.958089,-0.80164 -4.174276,-2.37771 -6.974796,-5.70667 z"
+       id="rect4444"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 152.83216,922.47044 c 11.53793,0.0837 22.99597,-0.63159 33.28881,-12.99845 l 1.26812,6.9748 c -8.82147,12.03215 -19.02971,15.46665 -29.95988,14.42512 z"
+       id="rect4447"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 285.26169,1009.6607 c 9.04722,0.9229 24.2331,-2.9518 31.16075,-13.56292 0.88673,3.2101 1.09298,5.56952 0.78465,7.28582 -4.03695,10.8863 -20.29881,13.4548 -29.59152,10.9847 -0.91815,-1.4357 -1.99919,-2.7084 -2.35388,-4.7076 z"
+       id="rect4450"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 329.08864,992.95931 c 13.11888,2.39888 27.98529,-3.85368 32.50581,-15.58038 l 1.68136,8.63085 c -5.40006,12.34298 -17.19916,16.16722 -30.60032,12.10561 z"
+       id="rect4453"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.19753089;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 227.98416,989.70873 c 16.68966,-0.42228 30.75505,-4.59354 43.26647,-10.98476 13.19922,4.15657 26.39182,8.23334 39.00691,5.3803 4.9563,6.65061 7.59028,13.30121 8.96715,19.95183 l -16.26456,-9.49173 c -12.51093,3.06421 -25.92688,2.41161 -32.62685,-2.18823 -10.57349,3.59003 -23.77483,6.51137 -39.47794,3.08853 z"
+       id="rect4552"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.19753089;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 135.03062,851.68402 -8.4193,0.12481 c -4.69314,19.81202 -12.25999,50.68143 -5.50649,64.21958 11.96629,23.98761 34.14467,56.74069 82.58387,69.92028 22.27483,6.06065 47.40515,2.39254 66.88266,-7.67029 -2.8516,-2.47408 -5.34342,-5.14076 -7.55929,-7.96157 13.90578,14.54461 33.70079,15.9332 57.57564,11.23495 l 11.69265,17.00501 c 12.86487,4.71261 23.04911,-0.71522 31.6937,-12.03943 0.70115,-11.61822 -5.48403,-22.09397 -14.89671,-32.02654 7.02095,16.41513 7.41412,32.22858 -11.08242,29.30796 l -12.33068,-15.39606 c -17.40004,8.70151 -42.35567,2.95055 -56.79895,-14.54994 l -16.28372,-7.2403 c -6.44083,-15.26627 -18.98435,-25.28929 -35.35545,-27.96256 11.88231,7.87568 23.9533,18.95693 29.40507,31.34692 -3.04096,8.07656 -7.98695,14.25358 -15.50702,17.85107 -51.10691,-7.75486 -79.91819,-35.13323 -91.97409,-55.57835 -10.55156,-17.89403 -8.53574,-41.37304 -4.11947,-60.58554 z"
+       id="rect4555"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.19753089;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 290.97831,897.79566 c 12.8938,8.15273 23.64174,15.13596 32.16953,15.58038 -5.54994,1.5984 -11.62257,9.44705 -10.64849,21.07273 l -2.69009,0.11211 z"
+       id="rect4566"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.19753089;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 86.751927,908.33204 c 7.195882,-6.83356 10.385164,-13.66708 11.619512,-20.50064 7.028151,-1.79462 13.958331,-3.98129 21.558871,-3.48644 -1.21411,11.39532 -1.24758,20.4294 -0.67253,28.24645 l -9.64779,-4.25679 -3.84391,3.45821 c 4.84169,4.68693 8.17332,9.80532 8.83785,15.68575 l -28.076191,14.9285 c 8.346384,-11.80543 13.716971,-23.45006 0.224188,-34.07504 z"
+       id="rect4569"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.19753089;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 94.497643,836.8708 c 23.291267,12.12776 56.330847,3.64604 77.928287,-20.80293 l -0.22552,4.0597 c 9.72596,0.19969 22.59814,-7.88282 25.3339,-16.22853 -2.66918,12.52845 -5.43015,25.0161 -15.53475,34.23987 -17.65148,7.70205 -36.75434,9.59849 -55.16428,14.26664 -13.01204,-2.2012 -24.38352,-6.58976 -32.337637,-15.53475 z"
+       id="rect3237"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.19753089;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 194.99801,770.6103 c 13.17725,0.66407 23.44844,3.40394 30.70774,8.29514 3.47929,0.52024 6.84861,1.59056 11.14095,-1.95444 -12.79491,18.47033 -27.81614,30.2618 -48.18943,25.99694 2.86136,-9.90677 8.10652,-17.03252 6.34074,-32.33764 z"
+       id="rect3240"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.19753089;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 167.73297,746.19853 c 8.28207,2.76846 11.28005,-0.55759 17.11997,-3.4874 l -1.90221,20.60733 c -6.65776,-0.12367 -13.3155,-2.10398 -19.97331,-7.29182 z"
+       id="rect3243"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.19753089;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 96.71703,750.95407 c 4.33291,-0.009 9.08238,-0.81815 12.59656,-5.33521 l 8.16928,7.55447 -13.3155,12.99845 -2.08871,-10.2124 z"
+       id="rect3246"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/isac/Documents/Ocastudios/Bronze/ataque_a_torre_special/troops/reindeer.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>
