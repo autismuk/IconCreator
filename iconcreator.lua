@@ -18,7 +18,7 @@
 --]]
 
 -- 	Standard Stub OOP create as a global.
-_G.Base =  _G.Base or { new = function(s) local o = {} setmetatable(o,s) s.__index = s s:initialise() return o end, initialise = function() end }
+_G.Base =  _G.Base or { new = function(s) local o = {} setmetatable(o,s) s.__index = s o:initialise() return o end, initialise = function() end }
 
 --
 --	Helper Class to convert SVG to PNG, uses Inkscape - but can be modified to use anything you wish.
