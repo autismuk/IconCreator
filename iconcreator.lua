@@ -130,21 +130,29 @@ AppleImageBuilder = AbstractImageBuilder:new()
 
 function AppleImageBuilder:getIconList()
 	local iconList = {}
-	-- Currently 14 icons are required.
+	-- Currently 17 icons are required.
+
+	iconList["Icon.png"] = 57 
+	iconList["Icon@2x.png"] = 114
 	iconList["Icon-60.png"] = 60 
 	iconList["Icon-60@2x.png"] = 120
+
+	iconList["Icon-60@3x.png"] = 180
+	iconList["Icon-72.png"] = 72
+	iconList["Icon-72@2x.png"] = 144
 	iconList["Icon-76.png"] = 76 
+
 	iconList["Icon-76@2x.png"] = 152
 	iconList["Icon-Small-40.png"] = 40 
 	iconList["Icon-Small-40@2x.png"] = 80
-	iconList["Icon.png"] = 57 
-	iconList["Icon@2x.png"] = 114
-	iconList["Icon-72.png"] = 72
-	iconList["Icon-72@2x.png"] = 144
+	iconList["Icon-Small-40@3x.png"] = 120
+
 	iconList["Icon-Small-50.png"] = 50 
 	iconList["Icon-Small-50@2x.png"] = 100
 	iconList["Icon-Small.png"] = 29 
 	iconList["Icon-Small@2x.png"] = 58
+
+	iconList["Icon-Small@3x.png"] = 87
 
 	dofile("build.settings")
 	local r = settings
